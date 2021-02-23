@@ -1,6 +1,6 @@
 /* Localized versions of Info.plist keys */
 
-CFBundleDisplayName="过人我贼溜";
+CFBundleDisplayName="测试";
 //如果你想为不同的设备(iphone,ipad,ipod)设置不同的显示名称，在键名字后加上”~”，就可以创建出针对特定的设备的键。如下：
 //
 //“CFBundleDisplayName~iphone”=”显示在iPhone桌面的名称”;
